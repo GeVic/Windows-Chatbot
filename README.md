@@ -1,6 +1,6 @@
 # Windows-Chatbot
 Large number of technology users are on windows. And it is full of functionalities and features. This chatbot 
-helps users to accomplish the same but in an interative way. Let's chatbot talk to the OS and do your repititive tasks
+helps users to accomplish the same but in an interactive way. Let's chatbot talk to the OS and do your repititive tasks
 in a ziffy.
 
 ## Actions you can perform with ZAT
