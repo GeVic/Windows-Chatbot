@@ -1,5 +1,7 @@
 # Windows-Chatbot
-Let Chatbot talk to the window. This helps user to do windows repetitive task easily.
+Large number of technology users are on windows. And it is full of functionalities and features. This chatbot 
+helps users to accomplish the same but in an interative way. Let's chatbot talk to the OS and do your repititive tasks
+in a ziffy.
 
 ## Actions you can perform with ZAT
 1. Open Browsers with your query from chatbox itself.
@@ -8,8 +10,4 @@ Let Chatbot talk to the window. This helps user to do windows repetitive task ea
 4. Tell ZAT to open any application for you.
 5. Talk to ZAT! Didn't answered correctly? Don't worry It is learning from you.
 
-Created by: GeVic 
-
-Language Used: Java
-
-GUI Intergration: Yes
+```This was created as a semester project. Built completely in Java without the help of ML related libraries.```
